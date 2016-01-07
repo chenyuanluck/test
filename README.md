@@ -1,5 +1,5 @@
 ##说明
-`
+```
 // 文件引入
 var fileInclude = require('gulp-file-include');
 // 配置文件
@@ -12,4 +12,4 @@ var rename = require('gulp-rename');
 var concat = require('gulp-concat');
 // gulp-exec
 var exec = require('gulp-exec');
-`
+```
